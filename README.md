@@ -1,16 +1,99 @@
-## Hi there 👋
+# 👋 Hi, I'm Emir
 
-<!--
-**Emiratlay/Emiratlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Electronics Engineering Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Focus Areas
+
+- FPGA Design & Digital Systems
+- Embedded Systems Development
+- Industrial Automation & PLC Programming
+- Artificial Intelligence & Computer Vision
+- PCB Design
+
+---
+
+## 💻 Programming Languages
+
+- C
+- C++
+- C#
+- Python
+- SQL
+- MATLAB
+- Verilog
+- SystemVerilog
+
+---
+
+## 🔧 Embedded Systems & Hardware
+
+- STM32
+- ESP32
+- Raspberry Pi
+- MSP430
+- PIC16F628A
+- Basys3 FPGA
+- Tang Nano 1K
+
+---
+
+## ⚙️ FPGA & EDA Tools
+
+- Quartus Prime
+- Vivado
+- ModelSim
+- SystemVerilog / Verilog HDL
+
+---
+
+## 🏭 Industrial Automation
+
+- GX Works3 (Mitsubishi PLC)
+- Ladder Logic (LD)
+- Structured Text (ST)
+- PLC Programming & HMI Basics
+
+---
+
+## 🤖 AI & Computer Vision
+
+- PyTorch
+- YOLOv8
+- OpenCV (basic/learning stage)
+
+---
+
+## 🧠 PCB Design
+
+- KiCad
+- Altium Designer
+
+---
+
+## 📡 Communication Protocols (Experience / Learning)
+
+- UART
+- SPI
+- I2C
+- RS232
+- Modbus
+
+---
+
+## 📌 Current Interests
+
+- Advanced FPGA architectures (VLSI concepts)
+- Real-time embedded systems
+- Industrial communication protocols
+- Edge AI applications
+
+---
+
+## 📊 GitHub Stats
+
+*(Optional – add GitHub stats card if you want)*
+
+```md
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emiratlay&show_icons=true)
