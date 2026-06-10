@@ -89,11 +89,3 @@ Electronic and Communication Engineering Student
 - Industrial communication protocols
 - Edge AI applications
 
----
-
-## 📊 GitHub Stats
-
-*(Optional – add GitHub stats card if you want)*
-
-```md
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emiratlay&show_icons=true)
