@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emir
 
-Electrical & Electronics Engineering Student
+Electronic and Communication Engineering Student
 
 ---
 
